@@ -86,7 +86,7 @@ module.exports = defineConfig({
   // set path for github pages
   outputDir: 'docs',
   assetsDir: './',
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/production-sub-path/'
-    : '/',
+  // publicPath: process.env.NODE_ENV === 'production'
+  //   ? '/production-sub-path/'
+  //   : '/',
 })
