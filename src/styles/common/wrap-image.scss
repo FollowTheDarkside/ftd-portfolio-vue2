@@ -1,0 +1,21 @@
+// Resize to fit window width
+.wrap-image {
+	position: relative;
+	padding-bottom: 56.25%; // Vertical width when the aspect ratio is 16:9
+	height: 0;
+	overflow: hidden;
+  }
+.wrap-image iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.wrap-image .image {
+	position: absolute; 
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
