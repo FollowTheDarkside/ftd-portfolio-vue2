@@ -82,5 +82,9 @@ module.exports = defineConfig({
       template: 'public/work/gan-sanpo-ikuta.html',
       filename: 'work/gan-sanpo-ikuta.html',
     },
-  }
+  },
+  // set path for github pages
+  outputDir: 'docs',
+  assetsDir: './',
+  publicPath: './',
 })
