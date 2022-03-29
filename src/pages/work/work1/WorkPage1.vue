@@ -34,7 +34,7 @@
           </ul>
         </p>
         <p class="text-left">
-          [Special Thanks]<br/>
+          [Credit]<br/>
           Daichi Shimizu (Okada laboratory, University of Tokyo)<br/>
           Junya Chikob<br/>
           Tomoya Kotegawa<br/>
