@@ -63,6 +63,7 @@
 
 <style lang="scss" scoped>
 @import "../../styles/common/centering.scss";
+@import "../../styles/common/wrap-image.scss";
 .link {
   color: gray;
 }
