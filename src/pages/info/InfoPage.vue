@@ -7,7 +7,7 @@
         <div class="image">
           <v-img
             alt="FTD-BOX"
-            src="../../assets/ftd-box.jpg"
+            src="../../assets/ftd-mirror.jpg"
             width="250"
           />
         </div>
