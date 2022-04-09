@@ -33,6 +33,9 @@
         <p class="text-left">
           My detailed portfolio is <a class="link" href="https://elite-amphibian-dde.notion.site/FTD-3bf5570278204a18b7d52bf519f3d1cb" target="_blank" rel="noopener">here</a>.
         </p>
+        <p class="text-left">
+          <a class="link" href="https://note.com/hahaeatora/n/n2fac607bffbd" target="_blank" rel="noopener">「FOLLOW THE DARKSIDE」とは何ぞや</a>
+        </p>
       </div>
       <div>
         <h1 class="title">REEL</h1>
