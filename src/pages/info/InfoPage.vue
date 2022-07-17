@@ -31,10 +31,7 @@
           近年はプログラミングや機械学習の技術を用いた新しいビジュアル表現を模索中。
         </p>
         <p class="text-left">
-          My detailed portfolio is <a class="link" href="https://elite-amphibian-dde.notion.site/FTD-3bf5570278204a18b7d52bf519f3d1cb" target="_blank" rel="noopener">here</a>.
-        </p>
-        <p class="text-left">
-          <a class="link" href="https://note.com/hahaeatora/n/n2fac607bffbd" target="_blank" rel="noopener">「FOLLOW THE DARKSIDE」とは何ぞや</a>
+          ポートフォリオ：<a class="link" href="https://elite-amphibian-dde.notion.site/FTD-3bf5570278204a18b7d52bf519f3d1cb" target="_blank" rel="noopener">詳細版</a> / <a class="link" href="https://note.com/hahaeatora/n/n2fac607bffbd" target="_blank" rel="noopener">ライター版</a>
         </p>
       </div>
       <div>
