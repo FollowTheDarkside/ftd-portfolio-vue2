@@ -6,6 +6,7 @@
       <div>
         <h1 class="title">Writings</h1>
         <p class="text-left">
+          2022/08 <a class="link" href="https://sanpoo.jp/article/nishinari-midnight-sanpo/" target="_blank" rel="noopener">深夜の西成あいりん地区を散歩する / サンポー</a><br/>
           2022/07 <a class="link" href="https://sanpoo.jp/article/negishi-yukashitsu-sanpo/" target="_blank" rel="noopener">【床質散歩】ダンサー目線で根岸駅から新杉田駅まで歩く / サンポー</a><br/>
           2020-21 <a class="link" href="https://note.com/thedesignium/m/ma25e9a7c5880" target="_blank" rel="noopener">note - BBOYエンジニア TECHブログ（デザイニウム）</a><br/>
           2020/02 <a class="link" href="https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3D5OS22b03/_article/-char/ja/" target="_blank" rel="noopener">ブレイクダンスにおける深層学習を用いたダンサーの情動状態の可視化と文化支援</a><br/>
