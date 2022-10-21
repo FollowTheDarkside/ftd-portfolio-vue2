@@ -5,7 +5,7 @@
     <div class="centering">
       <div>
         <h1 class="title">GAN散歩 / サンポー</h1>
-        <p class="sub-title">2022/03-04</p>
+        <p class="sub-title">2022/03-10</p>
         <div class="wrap-image">
           <div class="image">
             <v-img
@@ -27,6 +27,7 @@
           <ul>
             <li><a class="link" href="https://sanpoo.jp/article/ikuta-gan-sanpo/" target="_blank" rel="noopener">【GAN散歩】ジェネラティブな生田の潜在空間を探索したい / サンポー</a><br/></li>
             <li><a class="link" href="https://sanpoo.jp/article/marumiya-gan-sanpo/" target="_blank" rel="noopener">【GAN散歩】好きな街を混ぜる / サンポー</a><br/></li>
+            <li><a class="link" href="https://sanpoo.jp/article/inu-gan-sanpo/" target="_blank" rel="noopener">GANで生成した地元の散歩道を犬と歩く / サンポー</a><br/></li>
           </ul>
         </p>
       </div>
