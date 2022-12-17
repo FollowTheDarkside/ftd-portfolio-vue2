@@ -17,6 +17,7 @@
       <div>
         <h1 class="title">Media</h1>
         <p class="text-left">
+          2022/12 <a class="link" href="http://www.sigskl.org/activity/pg146.html" target="_blank" rel="noopener">第38回身体知研究会 招待講演「Introduction to DanceAI Project」</a><br/>
           2020/05 <a class="link" href="https://youtu.be/8poKOxl6j8U?t=1640" target="_blank" rel="noopener">TensorFlow.js Community Show & Tell #2</a><br/>
           2019/08 <a class="link" href="https://www.aps-web.jp/magazine/8118/" target="_blank" rel="noopener">APS - 走り始めた“AIシューズ”。STM32マイコンが楽しさを加速。</a><br/>
           2018/12 <a class="link" href="https://www.sigdance.site/cypher-session-vol-1" target="_blank" rel="noopener">SIGDance - Cypher Session vol. 1</a><br/>
