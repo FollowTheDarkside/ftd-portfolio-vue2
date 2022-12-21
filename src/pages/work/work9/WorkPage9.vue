@@ -16,7 +16,7 @@
           Music by <a class="link" href="https://iwakurakomaki.wixsite.com/flapfrog" target="_blank" rel="noopener">flap+frog</a><br>
         </p>
         <p class="text-left">
-          家具っぽい雰囲気の映像です。<br>
+          家具っぽい雰囲気の映像です。
           行ったり来たりします。
         </p>
       </div>
