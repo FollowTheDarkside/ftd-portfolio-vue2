@@ -88,6 +88,12 @@ module.exports = defineConfig({
       template: 'public/work/rojiura-extension.html',
       filename: 'work/rojiura-extension.html',
     },
+    work9: {
+      entry: 'src/pages/work/work9/main.js',
+      title: "FOLLOW THE DARKSIDE",
+      template: 'public/work/dot-matrix-format.html',
+      filename: 'work/dot-matrix-format.html',
+    },
   },
   // set path for github pages
   outputDir: 'docs',

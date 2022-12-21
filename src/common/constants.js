@@ -19,6 +19,11 @@ export default {
   ],
   workImages: [
     {
+      src: require("../assets/work/work9.jpg"),
+      url: "https://followthedarkside.github.io/work/dot-matrix-format.html",
+      gradient_over: "to top right, rgba(255,255,255,.0), rgba(255,255,255,.0)",
+    },
+    {
       src: require("../assets/work/work8.png"),
       url: "https://followthedarkside.github.io/work/rojiura-extension.html",
       gradient_over: "to top right, rgba(255,255,255,.0), rgba(255,255,255,.0)",
