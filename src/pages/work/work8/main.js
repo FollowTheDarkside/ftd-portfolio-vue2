@@ -1,10 +1,10 @@
 import Vue from 'vue'
-import WorkPage7 from './WorkPage8.vue'
+import WorkPage8 from './WorkPage8.vue'
 import vuetify from '../../../plugins/vuetify'
 
 Vue.config.productionTip = false
 
 new Vue({
   vuetify,
-  render: h => h(WorkPage7)
+  render: h => h(WorkPage8)
 }).$mount('#app')
