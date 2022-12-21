@@ -117,7 +117,7 @@ export default {
   data () {
         return {
             //workImages: [],
-            image_src: require("../../assets/work/work5.png"),
+            image_src: require("../../assets/work/work5.jpeg"),
             workImages: constants.workImages,
             alpha: "to top right, rgba(255,255,255,.0), rgba(255,255,255,.8)",
             alpha2: "to top right, rgba(255,255,255,.0), rgba(255,255,255,.0)",
