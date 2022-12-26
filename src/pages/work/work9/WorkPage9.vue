@@ -19,6 +19,11 @@
           家具っぽい雰囲気の映像です。
           行ったり来たりします。
         </p>
+        <p class="text-left">
+          <ul>
+            <li><a class="link" href="https://followthedarkside.medium.com/making-of-dot-matrix-format-65586a90bb1e" target="_blank" rel="noopener">Making of "dot matrix format"</a><br/></li>
+          </ul>
+        </p>
       </div>
     </div>
     <AppFooter/>
