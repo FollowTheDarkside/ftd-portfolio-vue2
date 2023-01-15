@@ -12,12 +12,17 @@
           </div>
         </div>
         <p class="text-left">
-          This is a video work that was screened at FRENZ2022. 
-          A walk where the boundary between reality and virtuality becomes ambiguous and you lose track of what is real.
+          A strolling video in which the boundary between reality and virtuality blurs, 
+          making it difficult to tell what is real. 
+          Based on a single short alleyway, 
+          the space perceived by the viewer is expanded by combining conventional video production software as well as programming, 3D scanning, and machine learning methods. 
+          This was screened at FRENZ2022.
         </p>
         <p class="text-left">
-          FRENZ2022にて上映した映像作品です。
-          現実と仮想の境界が曖昧となり何が本物か分からなくなる散歩。
+          現実と仮想の境界が曖昧となり何が本物か分からなくなる散歩映像。
+          1つの短い路地裏をベースとして、
+          従来の映像制作ソフトのみならずプログラミングや3Dスキャン、機械学習といった手法と組み合わせることで視聴者が認識する空間を拡張する。
+          FRENZ2022にて上映。
         </p>
         <p class="text-left">
           <ul>
