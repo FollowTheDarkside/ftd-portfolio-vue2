@@ -27,19 +27,16 @@
           このシステムを通して一般社会へのダンスの普及やダンサーの表現をより拡張することを目指していく。
         </p>
         <p class="text-left">
-          <ul>
-            <li><a class="link" href="https://followthedarkside.medium.com/dance-ai-classifies-and-visualizes-the-movements-of-breakdance-by-deep-learning-3a525300035" target="_blank" rel="noopener">Dance AI Recognizes The Movements of Breakdance by Deep Learning</a></li>
-            <li><a class="link" href="https://hahaeatora.hateblo.jp/entry/2018/10/14/183000" target="_blank" rel="noopener">【深層学習】AI（人工知能）にブレイクダンスの動きを識別させてみた【行動認識】</a></li>
-            <li><a class="link" href="https://adaa.jp/ja/winners/winners2018.html" target="_blank" rel="noopener">2018アジアデジタルアート大賞展FUKUOKA エンターテインメント（産業応用）部門 入賞</a></li>
-          </ul>
+          [Credit]<br/>
+          Director, Developer : Naoyuki Hirasawa<br/>
+          Researcher : Daichi Shimizu<br/>
+          Special Thanks: Junya Chikob, Tomoya Kotegawa, Tomohiro Matsuba, Jun Aoyama<br/>
         </p>
         <p class="text-left">
-          [Credit]<br/>
-          Daichi Shimizu (Okada laboratory, University of Tokyo)<br/>
-          Junya Chikob<br/>
-          Tomoya Kotegawa<br/>
-          Tomohiro Matsuba<br/>
-          Jun Aoyama<br/>
+          <ul>
+            <li><a class="link" href="https://followthedarkside.medium.com/dance-ai-classifies-and-visualizes-the-movements-of-breakdance-by-deep-learning-3a525300035" target="_blank" rel="noopener">Dance AI Recognizes The Movements of Breakdance by Deep Learning</a></li>
+            <li><a class="link" href="https://adaa.jp/ja/winners/winners2018.html" target="_blank" rel="noopener">2018アジアデジタルアート大賞展FUKUOKA エンターテインメント（産業応用）部門 入賞</a></li>
+          </ul>
         </p>
       </div>
     </div>
