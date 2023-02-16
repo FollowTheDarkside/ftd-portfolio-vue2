@@ -6,6 +6,7 @@
       <div>
         <h1 class="title">Writings</h1>
         <p class="text-left">
+          2023/02 <a class="link" href="https://sanpoo.jp/article/shonan-sea-sanpo/" target="_blank" rel="noopener">湘南の海を全部歩く / サンポー</a><br/>
           2022/08 <a class="link" href="https://sanpoo.jp/article/nishinari-midnight-sanpo/" target="_blank" rel="noopener">深夜の西成あいりん地区を散歩する / サンポー</a><br/>
           2022/07 <a class="link" href="https://sanpoo.jp/article/negishi-yukashitsu-sanpo/" target="_blank" rel="noopener">【床質散歩】ダンサー目線で根岸駅から新杉田駅まで歩く / サンポー</a><br/>
           2020-21 <a class="link" href="https://note.com/thedesignium/m/ma25e9a7c5880" target="_blank" rel="noopener">note - BBOYエンジニア TECHブログ（デザイニウム）</a><br/>
